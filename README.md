@@ -1,36 +1,36 @@
-### Olá, eu sou o Matheus Cruz 👋
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=160&section=header&text=Matheus%20Cruz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Systems%20Developer&descAlignY=60&descSize=16" />
+</div>
 
-Desenvolvedor de Sistemas focado em backend, APIs escaláveis, arquitetura de dados e automação/IA. Atualmente atuando como Desenvolvedor de Sistemas Júnior no IMASUL e graduando em Ciência da Computação (UEMS).
+<p align="center">
+  Desenvolvedor de Sistemas Júnior no <b>IMASUL</b> e graduando em Ciência da Computação na <b>UEMS</b>.<br/>
+  Focado em arquitetura backend, APIs escaláveis, bancos de dados relacionais e automação com IA.
+</p>
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Linguagens & Backend:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Banco de Dados & Infra:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://instagram.com/thews05"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/TheusCruz?tab=repositories"><img src="https://img.shields.io/badge/Projetos-161b22?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🚀 Em que estou trabalhando agora
-* **Sistemas de Gestão & APIs:** Desenvolvimento de aplicações corporativas e educacionais (Node.js, NestJS, PostgreSQL).
-* **Integração com IA & Self-Hosting:** Experimentos com LLMs locais (Ollama), automação via WhatsApp (`WhatsAI`) e infraestrutura em Home Lab.
+### Stack Principal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,django,postgres,mysql,docker,linux,git&perline=6" />
+  </a>
+</p>
 
 ---
 
-### 📊 Estatísticas
+### Foco Atual
+
+* **Sistemas Corporativos & Educacionais:** Desenvolvimento de APIs RESTful e aplicações full-stack com Node.js, TypeScript, NestJS e PostgreSQL.
+* **IA & Infraestrutura Self-Hosted:** Integração de LLMs locais via Ollama, automação para WhatsApp (`WhatsAI`) e serviços em Home Lab.
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheusCruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheusCruz&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheusCruz&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
